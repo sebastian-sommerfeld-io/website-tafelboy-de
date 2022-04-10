@@ -1,0 +1,7 @@
+---
+name: website-tafelboy-docs
+title: Website Tafelboy Docs
+version: main
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
