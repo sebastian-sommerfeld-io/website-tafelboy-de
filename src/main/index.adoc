@@ -1,6 +1,8 @@
 = Tafelboy
 // https://revealjs.com/themes/
 :revealjs_theme: night
+:revealjs_hash: true
+:revealjs_overview: false
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
@@ -8,6 +10,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 // https://photofunia.com/effects/chalkboard
 
 // todo -> Build custom theme with blackboard image as bg
+
+// todo -> Horst und Uschi?? Wie in die Grafiken einbauen?? Als Spielernamen??
 
 == Vier gewinnt
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
