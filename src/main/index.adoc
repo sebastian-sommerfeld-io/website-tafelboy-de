@@ -4,14 +4,16 @@
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
-== Lorem ipsum dolor
+// todo -> Chalk image generators / tools
+// https://photofunia.com/effects/chalkboard
+
+// todo -> Build custom theme with blackboard image as bg
+
+== Vier gewinnt
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
 
-== Lorem ipsum dolor
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
+== Hohe & Tiefe Hausnummer
+Mit Namen aller Kegelclub Mitglieder
 
-== Lorem ipsum dolor
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
-
-== Lorem ipsum dolor
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
+== Sarg Spiel
+Mit Namen aller Kegelclub Mitglieder und Zahlen
