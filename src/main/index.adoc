@@ -4,7 +4,17 @@
 :revealjs_hash: true
 :revealjs_overview: false
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+++++
+<style>
+    img {
+        background: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+    }
+</style>
+++++
+
+Gewidmet dem Chef-Anschreiber des erhabenen Kegelclubs der Moselblümchen.
 
 // todo -> Chalk image generators / tools
 // https://photofunia.com/effects/chalkboard
@@ -13,11 +23,20 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 // todo -> Horst und Uschi?? Wie in die Grafiken einbauen?? Als Spielernamen??
 
-== Vier gewinnt
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.
+== Horst & Uschi
+image::images/chalk-sketches-1.drawio.png[]
+
+Wer als erster die 150 Punkte überschreitet, verliert für den Abend seinen Namen
 
 == Hohe & Tiefe Hausnummer
-Mit Namen aller Kegelclub Mitglieder
+image::images/chalk-sketches-2.drawio.png[]
+
+== Vier gewinnt
+Auch bekannt als Pimmelchen gegen Tittchen oder (ein wenig jugendfreier) Jungs gegen Mädels :-)
+
+image::images/chalk-sketches-3.drawio.png[]
 
 == Sarg Spiel
-Mit Namen aller Kegelclub Mitglieder und Zahlen
+Oder "alle gegen Basti" ... die Nummern machen deutlich wer der Gegner in diesem Spiel ist
+
+image::images/chalk-sketches-4.drawio.png[]
