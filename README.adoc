@@ -1,4 +1,4 @@
-= Website tafelboy.de Docs
+= Website Tafelboy.de
 Sebastian Sommerfeld <sebastian@sommerfeld.io>
 :project-name: website-tafelboy-de
 :url-project: https://github.com/sebastian-sommerfeld-io/{project-name}
