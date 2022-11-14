@@ -1,9 +1,5 @@
-= Website Tafelboy Docs Startpage
+= Website Tafelboy.de Docs
 Sebastian Sommerfeld <sebastian@sommerfeld.io>
-:url-project: https://gitlab.com/sommerfeld.sebastian/website-tafelboy-de
-:url-ci-pipelines: {url-project}/pipelines
-:img-ci-status: {url-project}/badges/main/pipeline.svg
+include::ROOT:partial$vars.adoc[]
 
-image:{img-ci-status}[CI Status (GitLab CI), link={url-ci-pipelines}]
-
-Website contents for www.tafelboy.de
+include::ROOT:partial$README.adoc[]
